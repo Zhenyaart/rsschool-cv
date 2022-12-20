@@ -80,11 +80,13 @@ left: 100px;
     text-transform:uppercase;
     letter-spacing: 2px
 }
-.info p {
+
+.info1 li {
     line-height: 1.4;
     color: rgb(20, 137, 220);
     font-size: 18px;
 }
+
 
 @media (max-width: 768px) {
     .section {
